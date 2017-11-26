@@ -1,6 +1,6 @@
 # shell-scripting
 
-Doing backups MySQL and Plesk files
+Doing backups from MySQL and Plesk files to external FTP 
 
 # crontab -e
 
